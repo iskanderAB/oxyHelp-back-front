@@ -1,0 +1,18 @@
+.location{
+    direction: rtl;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.main-container{
+    padding-top:10.5vh;
+    width: 80vw;
+    margin-left: auto;
+    
+}
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    height:auto;
+    align-content: space-between;
+}
